@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-void findSumWays(int n, int arr[][2]) // even numbers only
+void findSumWays(int n, int arr[][2]) 
 {
     int j = n;
     int k = 0;
